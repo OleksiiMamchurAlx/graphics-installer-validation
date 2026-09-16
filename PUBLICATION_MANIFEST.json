@@ -30,7 +30,7 @@
       "size_bytes": 1069,
       "source_artifact": "LOCAL-HANDOFF/graphics-tests",
       "sanitization_status": "REVIEWED_PUBLIC_COPY",
-      "verification_status": "TESTED",
+      "verification_status": "HISTORICAL_RECORD_REVIEWED_NOT_RERUN",
       "claim_category": "BOUNDED_PORTFOLIO_EVIDENCE",
       "rights_note": "Original demo/text or synthetic data; no third-party implementation; no additional license grant"
     },
@@ -56,7 +56,7 @@
     },
     {
       "path": "evidence/verification.json",
-      "sha256": "cc50ff1529bb6a3596c781f24ecce2a7b2c9b6f9e77a53fa03d156d72eaad68a",
+      "sha256": "5631b79360f4c1b73881631fa3963928d3f12854f1e8ca457d5b1297fe829ff4",
       "size_bytes": 501,
       "source_artifact": "FRESH-PUBLIC-COPY-TEST-20260916",
       "sanitization_status": "REVIEWED_PUBLIC_COPY",
