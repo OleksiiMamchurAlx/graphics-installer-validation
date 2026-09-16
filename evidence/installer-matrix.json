@@ -1,0 +1,37 @@
+{
+  "provenance": "Sanitized earlier private sandbox record; original installer is not redistributed",
+  "evidence_date": "2026-09-15",
+  "independent_scenarios": 4,
+  "executions": 8,
+  "live_game_touched": false,
+  "fresh_installer_rerun_in_publication": false,
+  "scenarios": [
+    {
+      "name": "install-restore-Normal",
+      "PowerShell_7": "PASS",
+      "Windows_PowerShell_5_1": "PASS"
+    },
+    {
+      "name": "install-restore-Split",
+      "PowerShell_7": "PASS",
+      "Windows_PowerShell_5_1": "PASS"
+    },
+    {
+      "name": "config-drift-fails-closed",
+      "PowerShell_7": "PASS",
+      "Windows_PowerShell_5_1": "PASS"
+    },
+    {
+      "name": "payload-hash-fails-before-write",
+      "PowerShell_7": "PASS",
+      "Windows_PowerShell_5_1": "PASS"
+    }
+  ],
+  "first_attempt_failure_preserved": true,
+  "environment_fix": "Only child shell module search path changed; global settings unchanged",
+  "limitations": [
+    "No live rendering verification",
+    "No final-build FPS acceptance",
+    "No installer source in public repository"
+  ]
+}

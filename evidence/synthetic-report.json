@@ -1,0 +1,16 @@
+{
+  "mode": "SYNTHETIC",
+  "base": {
+    "mean_fps": 99.00990099009901,
+    "one_percent_low_fps": 50.0,
+    "frames": 100
+  },
+  "displayed": {
+    "mean_fps": 125.0,
+    "one_percent_low_fps": 125.0,
+    "frames": 100
+  },
+  "latency_ms": null,
+  "method": "FPS = 1000/mean interval. 1% low = 1000/mean slowest ceil(N*0.01) intervals.",
+  "limitation": "No base FPS inferred from frame generation; input provenance is supplied, not independently authenticated."
+}

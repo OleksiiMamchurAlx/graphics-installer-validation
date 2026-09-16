@@ -1,0 +1,118 @@
+{
+  "schema": 1,
+  "repository": "graphics-installer-validation",
+  "excludes_self": true,
+  "self_hash_location": "Detached publication-control manifest retained by project owner",
+  "files": [
+    {
+      "path": ".gitignore",
+      "sha256": "d0b0c42c42cc3104dd0c153787b8fe585346aea847f64084848ffc2cb88de650",
+      "size_bytes": 69,
+      "source_artifact": "NEW-PUBLICATION-20260916",
+      "sanitization_status": "REVIEWED_PUBLIC_COPY",
+      "verification_status": "CONTENT_REVIEWED",
+      "claim_category": "BOUNDED_PORTFOLIO_EVIDENCE",
+      "rights_note": "Original demo/text or synthetic data; no third-party implementation; no additional license grant"
+    },
+    {
+      "path": "AGENTS.md",
+      "sha256": "72a1501f4a53e5b643ba8dd2a0bcbad62c0721bf5ae930f4957e0f357da2e8a0",
+      "size_bytes": 452,
+      "source_artifact": "NEW-PUBLICATION-20260916",
+      "sanitization_status": "REVIEWED_PUBLIC_COPY",
+      "verification_status": "CONTENT_REVIEWED",
+      "claim_category": "BOUNDED_PORTFOLIO_EVIDENCE",
+      "rights_note": "Original demo/text or synthetic data; no third-party implementation; no additional license grant"
+    },
+    {
+      "path": "evidence/installer-matrix.json",
+      "sha256": "3f7b6bb9152a8bd645ad9a54f7012d32bb34bdfe41d8740fa617b29e7233b430",
+      "size_bytes": 1069,
+      "source_artifact": "LOCAL-HANDOFF/graphics-tests",
+      "sanitization_status": "REVIEWED_PUBLIC_COPY",
+      "verification_status": "TESTED",
+      "claim_category": "BOUNDED_PORTFOLIO_EVIDENCE",
+      "rights_note": "Original demo/text or synthetic data; no third-party implementation; no additional license grant"
+    },
+    {
+      "path": "evidence/synthetic-report.json",
+      "sha256": "d5499956e1d1fc1e0a32781986876714de18c97ac88fb701d932bd7cf69db24a",
+      "size_bytes": 466,
+      "source_artifact": "FRESH-PUBLIC-COPY-TEST-20260916",
+      "sanitization_status": "REVIEWED_PUBLIC_COPY",
+      "verification_status": "TESTED",
+      "claim_category": "BOUNDED_PORTFOLIO_EVIDENCE",
+      "rights_note": "Original demo/text or synthetic data; no third-party implementation; no additional license grant"
+    },
+    {
+      "path": "evidence/unit-tests.txt",
+      "sha256": "62d81670a7fd10af46d632b25d22e60fd7356db2fd5ff1fa774b633a14d129fa",
+      "size_bytes": 710,
+      "source_artifact": "FRESH-PUBLIC-COPY-TEST-20260916",
+      "sanitization_status": "REVIEWED_PUBLIC_COPY",
+      "verification_status": "TESTED",
+      "claim_category": "BOUNDED_PORTFOLIO_EVIDENCE",
+      "rights_note": "Original demo/text or synthetic data; no third-party implementation; no additional license grant"
+    },
+    {
+      "path": "evidence/verification.json",
+      "sha256": "cc50ff1529bb6a3596c781f24ecce2a7b2c9b6f9e77a53fa03d156d72eaad68a",
+      "size_bytes": 501,
+      "source_artifact": "FRESH-PUBLIC-COPY-TEST-20260916",
+      "sanitization_status": "REVIEWED_PUBLIC_COPY",
+      "verification_status": "TESTED",
+      "claim_category": "BOUNDED_PORTFOLIO_EVIDENCE",
+      "rights_note": "Original demo/text or synthetic data; no third-party implementation; no additional license grant"
+    },
+    {
+      "path": "fixtures/capture.synthetic.json",
+      "sha256": "af45a9f569a94d103dcaf30b68c34b2cd10d4a39a40e7ce22e1cb51323f79e27",
+      "size_bytes": 1680,
+      "source_artifact": "LOCAL-HANDOFF/synthetic-intervals",
+      "sanitization_status": "REVIEWED_PUBLIC_COPY",
+      "verification_status": "CONTENT_REVIEWED",
+      "claim_category": "BOUNDED_PORTFOLIO_EVIDENCE",
+      "rights_note": "Original demo/text or synthetic data; no third-party implementation; no additional license grant"
+    },
+    {
+      "path": "frame_report.py",
+      "sha256": "b5114deee9361760f6cb47940efe36fab8853635947382abd5df3e3338800e1c",
+      "size_bytes": 1905,
+      "source_artifact": "NEW-PUBLICATION-20260916",
+      "sanitization_status": "REVIEWED_PUBLIC_COPY",
+      "verification_status": "TESTED",
+      "claim_category": "BOUNDED_PORTFOLIO_EVIDENCE",
+      "rights_note": "Original demo/text or synthetic data; no third-party implementation; no additional license grant"
+    },
+    {
+      "path": "README.md",
+      "sha256": "2934ee9f96ba097221cb4649ddf298abba36c92c0c3f6d47c3bde80bd9f9a1b2",
+      "size_bytes": 4308,
+      "source_artifact": "NEW-PUBLICATION-20260916",
+      "sanitization_status": "REVIEWED_PUBLIC_COPY",
+      "verification_status": "CONTENT_REVIEWED",
+      "claim_category": "BOUNDED_PORTFOLIO_EVIDENCE",
+      "rights_note": "Original demo/text or synthetic data; no third-party implementation; no additional license grant"
+    },
+    {
+      "path": "RIGHTS_AND_ATTRIBUTION.md",
+      "sha256": "8e5391d5f57823ea75ecb0bc0b7839c148fe9088c6692d686990b67cdc3fd9ef",
+      "size_bytes": 864,
+      "source_artifact": "NEW-PUBLICATION-20260916",
+      "sanitization_status": "REVIEWED_PUBLIC_COPY",
+      "verification_status": "CONTENT_REVIEWED",
+      "claim_category": "BOUNDED_PORTFOLIO_EVIDENCE",
+      "rights_note": "Original demo/text or synthetic data; no third-party implementation; no additional license grant"
+    },
+    {
+      "path": "test_frame_report.py",
+      "sha256": "d335a688c7b69d3cd7435002994e8ce8df6ca615890bb994e45d88d3ede74386",
+      "size_bytes": 1361,
+      "source_artifact": "NEW-PUBLICATION-20260916",
+      "sanitization_status": "REVIEWED_PUBLIC_COPY",
+      "verification_status": "TESTED",
+      "claim_category": "BOUNDED_PORTFOLIO_EVIDENCE",
+      "rights_note": "Original demo/text or synthetic data; no third-party implementation; no additional license grant"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+test_base_not_derived_from_display (test_frame_report.FrameTests.test_base_not_derived_from_display) ... ok
+test_constant_intervals (test_frame_report.FrameTests.test_constant_intervals) ... ok
+test_invalid_intervals (test_frame_report.FrameTests.test_invalid_intervals) ... ok
+test_invalid_latency (test_frame_report.FrameTests.test_invalid_latency) ... ok
+test_missing_metrics_unknown (test_frame_report.FrameTests.test_missing_metrics_unknown) ... ok
+test_provenance_required (test_frame_report.FrameTests.test_provenance_required) ... ok
+test_slow_frame (test_frame_report.FrameTests.test_slow_frame) ... ok
+
+----------------------------------------------------------------------
+Ran 7 tests in 0.000s
+
+OK
