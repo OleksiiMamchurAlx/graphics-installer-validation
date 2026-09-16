@@ -5,6 +5,16 @@
   "self_hash_location": "Detached publication-control manifest retained by project owner",
   "files": [
     {
+      "path": ".gitattributes",
+      "sha256": "d60f352d0db1404c70afb4bb8b2ca3fd1c610572aa40720e8a0b7baa7885418c",
+      "size_bytes": 19,
+      "source_artifact": "NEW-PUBLICATION-20260916",
+      "sanitization_status": "REVIEWED_PUBLIC_COPY",
+      "verification_status": "CONTENT_REVIEWED",
+      "claim_category": "BOUNDED_PORTFOLIO_EVIDENCE",
+      "rights_note": "Original demo/text or synthetic data; no third-party implementation; no additional license grant"
+    },
+    {
       "path": ".gitignore",
       "sha256": "d0b0c42c42cc3104dd0c153787b8fe585346aea847f64084848ffc2cb88de650",
       "size_bytes": 69,
@@ -56,7 +66,7 @@
     },
     {
       "path": "evidence/verification.json",
-      "sha256": "5631b79360f4c1b73881631fa3963928d3f12854f1e8ca457d5b1297fe829ff4",
+      "sha256": "db8d8963045ea7068767a4dac91a6544b162a5b6daecbccc9942731cd8cb9556",
       "size_bytes": 501,
       "source_artifact": "FRESH-PUBLIC-COPY-TEST-20260916",
       "sanitization_status": "REVIEWED_PUBLIC_COPY",
