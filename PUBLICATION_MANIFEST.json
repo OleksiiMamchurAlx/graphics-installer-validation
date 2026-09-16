@@ -136,7 +136,7 @@
     },
     {
       "path": "project.json",
-      "sha256": "be699c61fddc407f0f033361cb635226daa3c4c3b2db555dea43537c00298d5b",
+      "sha256": "a161c5a67040a0ab9ed7b37623bc81b284a2da7eae675db056fce0ee0bc75578",
       "size_bytes": 1121,
       "source_artifact": "REVIEWED-PUBLIC-PROJECTION",
       "sanitization_status": "ALLOWLIST_AND_SCAN_PASS",
